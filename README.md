@@ -5,7 +5,6 @@
 Deployed a cloud-based Security Operations Center (SOC) lab using Microsoft Azure to monitor and analyze security events in real time. Configured a SIEM (Microsoft Sentinel) to ingest logs from a publicly exposed Windows VM, set up custom alert rules for suspicious RDP activity, and generated actionable security incidents. The project aimed to simulate real-world threat detection, incident response, and log analysis in a controlled environment at minimal cost.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Azure Infrastructure Setup: Provisioning virtual machines (VMs), configuring resource groups, and managing public-facing services (RDP).
 - SIEM Deployment: Configuring Microsoft Sentinel to aggregate and analyze logs from Azure resources.
@@ -20,10 +19,7 @@ Deployed a cloud-based Security Operations Center (SOC) lab using Microsoft Azur
 - Microsoft Sentinel: SIEM for log ingestion, analytics, and incident management.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+Azure VM Deployment
+![Screenshot_3](https://github.com/user-attachments/assets/8d40dfe9-2025-451f-a68e-475e94c4044c)
 
-Example below.
-
-*Ref 1: Network Diagram*
