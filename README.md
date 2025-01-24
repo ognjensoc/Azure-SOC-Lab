@@ -32,3 +32,8 @@ Deployed a cloud-based Security Operations Center (SOC) lab using Microsoft Azur
 **Custom Alert Rule Creation**<br>
 ![Screenshot_10](https://github.com/user-attachments/assets/967e2d9c-098c-42af-bfba-36bfbb5df311)
 ------------------------------------------
+**Incident Generation**
+![Screenshot_13](https://github.com/user-attachments/assets/8e36dd5a-8506-4fd6-8ace-e965b2dc694c)
+![Screenshot_14](https://github.com/user-attachments/assets/ca0f2253-a78f-4404-81b1-acf3440e7e06)
+------------------------------------------
+
