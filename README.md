@@ -20,8 +20,11 @@ Deployed a cloud-based Security Operations Center (SOC) lab using Microsoft Azur
 
 ## Steps
 
-Azure VM Deployment
+**Azure VM Deployment**
 ![Screenshot_3](https://github.com/user-attachments/assets/8d40dfe9-2025-451f-a68e-475e94c4044c)
-
-Microsoft Sentinel Setup
+------------------------------------------
+**Microsoft Sentinel Setup**
 ![Screenshot_4](https://github.com/user-attachments/assets/785401f6-ceed-4e97-916a-96a4880edd64)
+------------------------------------------
+**Data Connector Configuration**
+![Screenshot_8](https://github.com/user-attachments/assets/83bc906c-89d7-4404-9a22-44e5ebcb5a8c)
