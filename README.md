@@ -29,6 +29,6 @@ Deployed a cloud-based Security Operations Center (SOC) lab using Microsoft Azur
 **Data Connector Configuration**
 ![Screenshot_8](https://github.com/user-attachments/assets/83bc906c-89d7-4404-9a22-44e5ebcb5a8c)
 ------------------------------------------
-**Custom Alert Rule Creation**
+**Custom Alert Rule Creation**<br>
 ![Screenshot_10](https://github.com/user-attachments/assets/967e2d9c-098c-42af-bfba-36bfbb5df311)
 ------------------------------------------
