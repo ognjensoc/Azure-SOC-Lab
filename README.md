@@ -1,25 +1,23 @@
 # Azure SOC Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+Deployed a cloud-based Security Operations Center (SOC) lab using Microsoft Azure to monitor and analyze security events in real time. Configured a SIEM (Microsoft Sentinel) to ingest logs from a publicly exposed Windows VM, set up custom alert rules for suspicious RDP activity, and generated actionable security incidents. The project aimed to simulate real-world threat detection, incident response, and log analysis in a controlled environment at minimal cost.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Azure Infrastructure Setup: Provisioning virtual machines (VMs), configuring resource groups, and managing public-facing services (RDP).
+- SIEM Deployment: Configuring Microsoft Sentinel to aggregate and analyze logs from Azure resources.
+- Threat Detection: Creating custom analytics rules in Sentinel to detect successful/failed RDP brute-force attempts.
+- Incident Response: Triaging alerts and generating incidents for further investigation.
+- Threat Intelligence: Understanding indicators of compromise (IoCs) and preparing for threat feed integration (mentioned as future work).
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Microsoft Azure: Cloud platform for VM deployment and resource management.
+- Azure Virtual Machine (Windows): Hosted a publicly accessible VM with RDP exposed.
+- Microsoft Sentinel: SIEM for log ingestion, analytics, and incident management.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
